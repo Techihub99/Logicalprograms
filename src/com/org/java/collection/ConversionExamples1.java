@@ -8,9 +8,6 @@ import java.util.Map;
 import java.util.Set;
 import java.util.function.Function;
 import java.util.stream.Collectors;
-
-
-
 public class ConversionExamples1 {
 
 	public static void main(String[] args) {
